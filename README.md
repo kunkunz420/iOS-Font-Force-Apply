@@ -24,14 +24,37 @@ A lightweight Chrome extension that forces all websites to use a custom embedded
 
 
 ---
+✅ Method 1: Recommended – Use the .zip Release
+Go to the Releases page
 
-🔧 Installation
+Download the latest .zip file (e.g. ios-style-font-switcher.zip)
 
-1. Download or clone this repository
-2. Go to `chrome://extensions/` in Chrome
-3. Enable Developer mode (top-right)
-4. Click "Load unpacked"
-5. Select the folder containing this extension
+Unzip it anywhere on your computer
 
+Open Chrome and navigate to chrome://extensions/
+
+Enable Developer mode (top right corner)
+
+Click Load unpacked
+
+Select the folder you just unzipped
+
+🎉 Done! The extension should now appear in your toolbar.
+
+🛠️ Method 2: Manual from Source Code
+Clone or download this repository (green "Code" button → Download ZIP)
+
+Unzip the folder
+
+Open chrome://extensions/ in Chrome
+
+Enable Developer mode
+
+Click Load unpacked
+
+Select the unzipped folder
+
+💡 Tip
+If the extension doesn't activate immediately, click the puzzle icon 🧩 in the Chrome toolbar, pin the extension, and open the popup toggle.
 
 
