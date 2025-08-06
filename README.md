@@ -25,6 +25,7 @@ A lightweight Chrome extension that forces all websites to use a custom embedded
 
 ---
 🔧 Installation 
+
 Go to the Releases page
 
 Download the latest .7z archios-style-font-switcher.7z)
