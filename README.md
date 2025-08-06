@@ -39,7 +39,7 @@ Click Load unpacked
 
 Select the fold
 
-💡 Note: .7z files are not natively supported by Windows Explorer or macOS Finder. Please use 7-Zip, WinRAR, or The Unarchiver (macOS).
+💡 Note: .7z files are not natively supported by Windows Explorer or macOS Finder. Please use Bandizip, 7-Zip, WinRAR, or The Unarchiver (macOS).
 
 📌 Optional: Install from Source
 If you prefer, you can also download the full source code from the green Code button and install manually as above.
