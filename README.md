@@ -24,41 +24,22 @@ A lightweight Chrome extension that forces all websites to use a custom embedded
 
 
 ---
-✅ Method 1: Recommended – Use the .zip Release
+🔧 Installation (via .7z ar
 Go to the Releases page
 
-Download the latest .zip file (e.g. ios-style-font-switcher.zip)
+Download the latest .7z archios-style-font-switcher.7z)
 
-Unzip it anywhere on your computer
+Unzip it using 7-Zip or.7z compatible tool (Bandizip)
 
 Open Chrome and navigate to chrome://extensions/
 
-Enable Developer mode (top right corner)
+Enable Developer mode (top right corne
 
 Click Load unpacked
 
-Select the folder you just unzipped
+Select the fold
 
-🎉 Done! The extension should now appear in your toolbar.
+💡 Note: .7z files are not natively supported by Windows Explorer or macOS Finder. Please use 7-Zip, WinRAR, or The Unarchiver (macOS).
 
----
-
-🛠️ Method 2: Manual from Source Code
-Clone or download this repository (green "Code" button → Download ZIP)
-
-Unzip the folder
-
-Open chrome://extensions/ in Chrome
-
-Enable Developer mode
-
-Click Load unpacked
-
-Select the unzipped folder
-
----
-
-💡 Tip
-If the extension doesn't activate immediately, click the puzzle icon 🧩 in the Chrome toolbar, pin the extension, and open the popup toggle.
-
-
+📌 Optional: Install from Source
+If you prefer, you can also download the full source code from the green Code button and install manually as above.
