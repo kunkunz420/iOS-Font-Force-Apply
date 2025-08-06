@@ -41,6 +41,8 @@ Select the folder you just unzipped
 
 🎉 Done! The extension should now appear in your toolbar.
 
+---
+
 🛠️ Method 2: Manual from Source Code
 Clone or download this repository (green "Code" button → Download ZIP)
 
@@ -53,6 +55,8 @@ Enable Developer mode
 Click Load unpacked
 
 Select the unzipped folder
+
+---
 
 💡 Tip
 If the extension doesn't activate immediately, click the puzzle icon 🧩 in the Chrome toolbar, pin the extension, and open the popup toggle.
