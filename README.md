@@ -19,7 +19,9 @@ A lightweight Chrome extension that forces all websites to use a custom embedded
 
 🖼️ Screenshot
 
-![screenshot](./screenshot.png)
+<img width="464" height="233" alt="show" src="https://github.com/user-attachments/assets/f8c55c6b-27a2-4107-8eee-924822a5f609" />
+
+
 
 ---
 
@@ -31,7 +33,5 @@ A lightweight Chrome extension that forces all websites to use a custom embedded
 4. Click "Load unpacked"
 5. Select the folder containing this extension
 
----
 
-📁 Project Structure
 
